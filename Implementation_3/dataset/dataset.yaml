@@ -1,0 +1,6 @@
+
+train: "D:/Game Theory Assignment/Implementation_3/dataset/images/train"  # path to training images
+val: "D:/Game Theory Assignment/Implementation_3/dataset/images/val"      # path to validation images
+
+nc: 4  # number of classes
+names: ['player1', 'player2', 'player3', 'player4']  # list of class names
